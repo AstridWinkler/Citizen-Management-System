@@ -24,7 +24,8 @@ The main program offers an on-screen menu that allows you to:
 
 While we respected the different objectives asked by our professor, we made what we believe are improvements and added further options.
 Age and civil status are characteristics taken into account to enable or not, the access to different options.
-A backup system was also implemented, and a graphical interface.
+A backup system was implemented, as well as a graphical interface. Adoption is now possible, and deaths are saved in the database.
+An important aspect is the existence of multiple townhalls we are able to naviguate between, each with their own set of citizens.
 
 Here is then our updated **Menu** : 
 
